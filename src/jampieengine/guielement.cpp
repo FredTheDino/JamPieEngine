@@ -1,4 +1,4 @@
-#include "gui.h"
+#include "guielement.h"
 #include "entity.h"
 #include "glm/glm.hpp"
 #include "material.h"

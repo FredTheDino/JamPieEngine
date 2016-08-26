@@ -1,5 +1,5 @@
 #pragma once
-#include "gui.h"
+#include "guielement.h"
 
 #include "material.h"
 
